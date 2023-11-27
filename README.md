@@ -14,24 +14,8 @@ Caltech101数据集来源🔗 ，若要运行项目请先下载数据
 
 <!-- 下面简单写一个html展示一下数据 -->
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="width: 100px; height: 100px; margin: 5px;">
-        <img src="./data/dataset/images/1.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <div style="width: 100px; height: 100px; margin: 5px;">
-        <img src="./data/dataset/images/2.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <div style="width: 100px; height: 100px; margin: 5px;">
-        <img src="./data/dataset/images/3.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <div style="width: 100px; height: 100px; margin: 5px;">
-        <img src="./data/dataset/images/4.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <div style="width: 100px; height: 100px; margin: 5px;">
-        <img src="./data/dataset/images/5.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-    <div style="width: 100px; height: 100px; margin: 5px;">
-        <img src="./data/dataset/images/6.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-    </div>
-</div>
+
+| ![](./data/dataset/images/1.jpg)        | ![](./data/dataset/images/2.jpg)                | ![](./data/dataset/images/3.jpg) |
+| --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| ![](./data/dataset/images/4.jpg) | ![](./data/dataset/images/5.jpg) | ![](./data/dataset/images/6.jpg) |
 
